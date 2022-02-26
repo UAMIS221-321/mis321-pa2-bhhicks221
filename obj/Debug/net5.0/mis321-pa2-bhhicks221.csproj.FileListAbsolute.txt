@@ -1,0 +1,15 @@
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/mis321-pa2-bhhicks221.deps.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/mis321-pa2-bhhicks221.runtimeconfig.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/mis321-pa2-bhhicks221.runtimeconfig.dev.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/mis321-pa2-bhhicks221.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/ref/mis321-pa2-bhhicks221.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/bin/Debug/net5.0/mis321-pa2-bhhicks221.pdb
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.csproj.AssemblyReference.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.AssemblyInfoInputs.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.AssemblyInfo.cs
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.csproj.CoreCompileInputs.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/ref/mis321-pa2-bhhicks221.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.pdb
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/mis321-pa2-bhhicks221/obj/Debug/net5.0/mis321-pa2-bhhicks221.genruntimeconfig.cache
