@@ -86,6 +86,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip(playerOne, playerTwo);
                     }
                         break;
                     case 3:
