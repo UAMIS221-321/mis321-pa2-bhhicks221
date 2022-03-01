@@ -76,6 +76,7 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
 
+                        Gameplay.CoinFlip1(playerOne, playerTwo);
                     }
                         break;
                     case 2:
@@ -94,10 +95,13 @@ namespace mis321_pa2_bhhicks221
                     {
                         WillTurner playerTwo = new WillTurner();
                         playerTwo.Name = name;
+                        Console.Clear();
                         Console.WriteLine($"{playerOne.Name}, you will be playing with {playerOne.Title}.");
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip2(playerOne, playerTwo);
                     }
                         break;
                 }
@@ -118,6 +122,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip(playerTwo, playerOne);
                     }
                         break;
                     case 2:
@@ -128,6 +134,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip3(playerOne, playerTwo);
                     }
                         break;
                     case 3:
@@ -138,6 +146,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip4(playerOne, playerTwo);
                     }
                         break;
                 }
@@ -165,6 +175,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip2(playerTwo, playerOne);
                     }
                         break;
                     case 2:
@@ -175,6 +187,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip4(playerTwo, playerOne);
                     }
                         break;
                     case 3:
@@ -185,6 +199,8 @@ namespace mis321_pa2_bhhicks221
                         Console.WriteLine($"Name: {playerOne.Name} Title: {playerOne.Title} MaxPower: {playerOne.MaxPower} Health: {playerOne.Health} AttackStrength: {playerOne.AttackStrength} DefensiveStrength: {playerOne.DefensivePower}\n");
                         Console.WriteLine($"{playerTwo.Name}, you will be playing with {playerTwo.Title}.");
                         Console.WriteLine($"Name: {playerTwo.Name} Title: {playerTwo.Title} MaxPower: {playerTwo.MaxPower} Health: {playerTwo.Health} AttackStrength: {playerTwo.AttackStrength} DefensiveStrength: {playerTwo.DefensivePower}");
+
+                        Gameplay.CoinFlip5(playerOne, playerTwo);
                     }
                         break;
                 }

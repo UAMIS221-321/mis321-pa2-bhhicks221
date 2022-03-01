@@ -9,6 +9,8 @@ namespace mis321_pa2_bhhicks221
         public int Health {get; set;}
         public int AttackStrength {get; set;}
         public int DefensivePower{get; set;}
+        public IAttack attackBehavior {get; set;}
+        public IDefend defendBehavior {get; set;}
 
         public Character()
         {
